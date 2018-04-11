@@ -13132,11 +13132,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ezequiel\\Documents\\Programming\\Module 3 Enterprise Computing\\API\\CameraDatabaseAPI\\CameraDatabaseAPI\\CameraDatabaseAPI\\CameraDatabaseAPI.csproj",
+      "projectUniqueName": "C:\\CameraDatabaseAPI\\CameraDatabaseAPI\\CameraDatabaseAPI.csproj",
       "projectName": "CameraDatabaseAPI",
-      "projectPath": "C:\\Users\\Ezequiel\\Documents\\Programming\\Module 3 Enterprise Computing\\API\\CameraDatabaseAPI\\CameraDatabaseAPI\\CameraDatabaseAPI\\CameraDatabaseAPI.csproj",
+      "projectPath": "C:\\CameraDatabaseAPI\\CameraDatabaseAPI\\CameraDatabaseAPI.csproj",
       "packagesPath": "C:\\Users\\Ezequiel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ezequiel\\Documents\\Programming\\Module 3 Enterprise Computing\\API\\CameraDatabaseAPI\\CameraDatabaseAPI\\CameraDatabaseAPI\\obj\\",
+      "outputPath": "C:\\CameraDatabaseAPI\\CameraDatabaseAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

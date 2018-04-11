@@ -24,6 +24,7 @@ namespace CameraDatabaseAPI.Models
         public int Megapixels { get; set; }
 
         [Required]
+        [Display(Name = "Price")]
         public decimal cameraPrice { get; set; }
         
     }
